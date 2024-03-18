@@ -1,0 +1,8 @@
+requests
+numpy
+pandas
+Deprecated
+streamlit
+keras
+matplotlib
+tensorflow
